@@ -1,1 +1,4 @@
-This is a consol project - root of software development.
+
+
+Airbnb 1st basics: the model - ie baseModel
+       	   	   and consoel aka blueprint
